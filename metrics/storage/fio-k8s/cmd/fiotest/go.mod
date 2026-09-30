@@ -7,7 +7,7 @@ require (
 	github.com/kata-containers/tests/metrics/exec v0.0.0-00010101000000-000000000000
 	github.com/kata-containers/tests/metrics/k8s v0.0.0-00010101000000-000000000000
 	github.com/pkg/errors v0.9.1
-	github.com/sirupsen/logrus v1.8.1
+	github.com/sirupsen/logrus v1.8.3
 	github.com/urfave/cli v1.22.5
 )
 
